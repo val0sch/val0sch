@@ -7,7 +7,7 @@ Web developper
 En formation à la Wild Code School
 
 * 🌍  I'm based in Bordeaux
-* 🖥️  See my portfolio at [My portfolio]([http://val0sch.github.io/portfolio_react/](https://portfolio-valerie.netlify.app/)
+* 🖥️  See my portfolio at [My portfolio](https://portfolio-valerie.netlify.app)
 * ✉️  You can contact me at [valerie.ielsch@gmail.com](mailto:valerie.ielsch@gmail.com)
 * 🧠  I'm learning ReactJs / Express (Nodejs) / MySQL / PHP /Symfony
 * ⚡  Current Project : https://github.com/WildCodeSchool/2022-03-JS-RemoteFR-Outsiders-P3-GiveDay
